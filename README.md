@@ -5,6 +5,6 @@
 1. Download zip, extract
 2. Go to Extracted folder
 3. Run 'pip install -r requirements.txt'
-4. Open CMD
+4. Press Windows+R then type cmd, click ok
 5. Go to Extracted Folder
 6. Run 'python main.py'
