@@ -1,4 +1,4 @@
-# realtime-face-detection
+# realtime-face-detection using MTCNN
 
 # HOW TO USE
 
